@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Wireless Keyboard",
+      "quantity": 15,
+      "price": 29.99
+    },
+    {
+      "name": "Gaming Mouse",
+      "quantity": 25,
+      "price": 49.95
+    },
+    {
+      "name": "USB-C Charging Cable",
+      "quantity": 50,
+      "price": 9.99
+    },
+    {
+      "name": "External Hard Drive",
+      "quantity": 10,
+      "price": 89.99
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "quantity": 35,
+      "price": 39.99
+    },
+    {
+      "name": "Laptop Stand",
+      "quantity": 20,
+      "price": 24.99
+    },
+    {
+      "name": "HDMI Cable",
+      "quantity": 40,
+      "price": 12.50
+    },
+    {
+      "name": "Wireless Earbuds",
+      "quantity": 30,
+      "price": 59.99
+    },
+    {
+      "name": "Portable Power Bank",
+      "quantity": 18,
+      "price": 25.00
+    },
+    {
+      "name": "Smartwatch",
+      "quantity": 12,
+      "price": 199.99
+    }
+  ]
+  
